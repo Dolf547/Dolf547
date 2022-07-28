@@ -6,7 +6,7 @@
  </div>
  
  <div>
-  <h3>Working hours(As of: 29/04/2022)</h3>
+  <h3>CodeTime</h3>
  <img alt="Code Time" src="https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/3747?logoColor=white%26project=%26recentMS=0%26showProject=true" />
  
   </div>
