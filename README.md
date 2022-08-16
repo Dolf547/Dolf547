@@ -2,8 +2,7 @@
 
 <div>
   <h3>Git hub Languages used (Projects)</h3>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Dolf547&show_icons=true&theme=blueberr"/>
-  <img height="100em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dolf547&layout=compact&theme=blueberr"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Dolf547&show_icons=true&theme=blueberry"/>
  </div>
  
  <div>
