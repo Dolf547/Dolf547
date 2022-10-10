@@ -4,7 +4,7 @@
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Dolf547&show_icons=true&theme=blueberr"/>
 </div>
 <div>
-https://github-readme-stats.vercel.app/api/top-langs/?username=Dolf547&layout=compact
+   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolf547&layout=compact"/>
 </div>
  
  <div>
