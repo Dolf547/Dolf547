@@ -1,4 +1,4 @@
-<h5> Olá sou Tiago Ferreira, apaixonado por tecnologia desde pequeno, formado em Curso Técnico em Informática voltado para o desenvolvimento de software e no momento estou Cursando Graduação em Análise e Desenv. de Sistemas na UNIFTEC.</h5>
+<h5> Trabalho principalmente no desenvolvimento Web na construção de Web Pages com Laravel e Codeigniter, também atuo na construção de APIs utilizando bastante PHP ou Javascript, como linguagens principais utilizando o padrão Restful sobre uma arquitetura monolítica ou baseada em micro-serviços..</h5>
 
 <div>
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Dolf547&show_icons=true&theme=cobalt"/>
