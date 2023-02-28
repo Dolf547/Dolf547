@@ -1,10 +1,10 @@
 <h5> Trabalho principalmente no desenvolvimento Web na construção de Web Pages com Laravel e Codeigniter, também atuo na construção de APIs utilizando bastante PHP ou Javascript, como linguagens principais utilizando o padrão Restful sobre uma arquitetura monolítica ou baseada em micro-serviços. Tenho bastante conhecimento em alguns frameworks construídos nas linguagens citas conhecidos no mercado, como: Laravel, Codeigniter e React-Native</h5>
 
 <div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Dolf547&show_icons=true&theme=cobalt"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Dolf547&show_icons=true&theme=cobal"/>
 </div>
 <div>
-   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolf547&layout=compact&theme=cobalt"/>
+   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolf547&layout=compact&theme=cobal"/>
 </div>
  
  <div>
