@@ -1,4 +1,10 @@
-<h5> Trabalho principalmente no desenvolvimento Web na construção de Web Pages com Laravel e Codeigniter, também atuo na construção de APIs utilizando bastante PHP ou Javascript, como linguagens principais utilizando o padrão Restful sobre uma arquitetura monolítica ou baseada em micro-serviços. Tenho bastante conhecimento em alguns frameworks construídos nas linguagens citas conhecidos no mercado, como: Laravel, Codeigniter e React-Native</h5>
+<h5>Com mais de 3 anos de experiência, atuo principalmente no desenvolvimento web, utilizando Laravel e Codeigniter para a construção de páginas web. Além disso, tenho expertise na criação de APIs, utilizando PHP e JavaScript como linguagens principais, seguindo o padrão Restful em uma arquitetura monolítica ou baseada em micro-serviços.
+
+Possuo um amplo conhecimento em frameworks renomados do mercado, tais como Laravel, Codeigniter e React-Native. Estes frameworks são amplamente reconhecidos por sua eficiência e versatilidade, permitindo a criação de aplicações web e móveis robustas e de alta qualidade.
+
+Estou sempre atualizado sobre as últimas tendências e melhores práticas da indústria, buscando constantemente aprimorar minhas habilidades e entregar soluções inovadoras aos projetos com os quais trabalho.
+
+Se você precisa de um desenvolvedor web experiente e apaixonado por seu trabalho, estou pronto para ajudar a transformar suas ideias em realidade, garantindo um resultado final bonito e funcional.</h5>
 
 <div>
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Dolf547&show_icons=true&theme=cobal"/>
