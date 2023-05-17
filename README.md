@@ -2,7 +2,7 @@
 
 Possuo um amplo conhecimento em frameworks renomados do mercado, tais como Laravel, Codeigniter e React-Native. Estes frameworks são amplamente reconhecidos por sua eficiência e versatilidade, permitindo a criação de aplicações web e móveis robustas e de alta qualidade.
 
-Estou sempre atualizado sobre as últimas tendências e melhores práticas da indústria, buscando constantemente aprimorar minhas habilidades e entregar soluções inovadoras aos projetos com os quais trabalho.
+Estou sempre atualizado sobre as últimas tendências e melhores práticas, buscando constantemente aprimorar minhas habilidades e entregar soluções inovadoras aos projetos com os quais trabalho.
 
 Se você precisa de um desenvolvedor web experiente e apaixonado por seu trabalho, estou pronto para ajudar a transformar suas ideias em realidade, garantindo um resultado final bonito e funcional.</h5>
 
