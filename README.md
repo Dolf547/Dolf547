@@ -7,10 +7,10 @@ Estou sempre atualizado sobre as últimas tendências e melhores práticas, busc
 Se você precisa de um desenvolvedor web experiente e apaixonado por seu trabalho, estou pronto para ajudar a transformar suas ideias em realidade, garantindo um resultado final bonito e funcional.</h5>
 
 <div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Dolf547&show_icons=true&theme=tokyonight"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Dolf547&show_icons=true&theme=synthwave"/>
 </div>
 <div>
-   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolf547&layout=compact&theme=tokyonight"/>
+   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolf547&layout=compact&theme=synthwave"/>
 </div>
  
  <div>
